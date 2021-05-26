@@ -1,0 +1,17 @@
+{
+  "name": "cypress-testrail-integration",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cypress:open": "cypress open",
+    "cypress:run": "cypress run"
+  },
+  "author": "Peter Zsilak",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^7.4.0",
+    "cypress-testrail-accumulative-reporter": "^1.1.4"
+  }
+}

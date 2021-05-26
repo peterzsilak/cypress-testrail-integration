@@ -1,0 +1,10 @@
+{
+  "reporter": "cypress-testrail-accumulative-reporter",
+  "reporterOptions": {
+    "domain": "<domain>",
+    "username": "<username>",
+    "password": "<password>",
+    "projectId": "<project_id>",
+    "suiteId": "<suite_id>"
+  }
+}
