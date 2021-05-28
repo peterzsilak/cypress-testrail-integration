@@ -1,7 +1,7 @@
-# Cypress Testrail integration
+# Cypress Testrail Integration
 
 ### Run
-
+`npm run cypress:run`
 
 #### Headless mode
-``npm run cypress:run --headed --browser chrome``
+`npm run cypress:run --headed`
